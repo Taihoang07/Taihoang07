@@ -27,6 +27,10 @@
 
 📫 Connect with Me
 
-<p align="left"> <a href="https://www.linkedin.com/in/ho%C3%A0ng-%C4%91%E1%BA%B7ng-ch%C3%AD-t%C3%A0i-undefined-b52912436" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/> </a> <a href="https://www.facebook.com/share/14sMo4kFBsG/?mibextid=wwXIfr" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/ho%C3%A0ng-%C4%91%E1%BA%B7ng-ch%C3%AD-t%C3%A0i-undefined-b52912436" target="_blank">
+  
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/> </a> <a href="https://www.facebook.com/share/14sMo4kFBsG/?mibextid=wwXIfr" target="_blank">
+
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a> </p>
 
 📧 Email: hoangdangchitai08052008@gmail.com
